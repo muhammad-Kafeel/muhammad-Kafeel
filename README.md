@@ -26,4 +26,4 @@ I am actively seeking job opportunities in front-end web development. I am passi
 ## Contact
 - Email: kafeelkafridi@gmail.com
 - Phone: +923020777892
-- LinkedIn: [Muhammad Kafeel](www.linkedin.com/in/muhammad-kafeel)
+- LinkedIn: [Muhammad Kafeel](https://www.linkedin.com/in/muhammad-kafeel/)
