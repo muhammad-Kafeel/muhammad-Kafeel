@@ -6,7 +6,7 @@ I am currently pursuing the Meta Front-End Web Development Professional Certific
 ## Skills
 - Programming Languages: JavaScript, C, C++, Python
 - Front-End Development: HTML, CSS, React
-- Version Control: Git
+- Version Control: Git and GitHub
 
 ## Interests
 Although my primary interest lies in softwere developer, I am excited to embark on my coding journey through web development. I believe it will provide a strong foundation for expanding my skills and exploring the intersection of softwere develope and web technologies.
