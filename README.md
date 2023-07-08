@@ -4,9 +4,11 @@
 I am currently pursuing the Meta Front-End Web Development Professional Certification on Coursera, which consists of nine courses covering various aspects of front-end development. I have already completed the following three courses: "Introduction to Front-End Development," "Programming with JavaScript," and "Version Control." Currently, I'm working on "HTML and CSS in Depth."
 
 ## Skills
-- Programming Languages: JavaScript, C, C++, Python
+- Programming Languages: JavaScript, C, C++, 
+- HTML , CSS , WORDPRESS
 - Front-End Development: HTML, CSS, React
 - Version Control: Git and GitHub
+
 
 ## Interests
 Although my primary interest lies in softwere developer, I am excited to embark on my coding journey through web development. I believe it will provide a strong foundation for expanding my skills and exploring the intersection of softwere develope and web technologies.
