@@ -12,7 +12,6 @@ Additionally, I am actively working on my Final Year Project 1 (FYP1), developin
 - Version Control: Git and GitHub
 - PHP
 - MERN Stack(MongoDB,Express,React,Nodejs)
-- 
 
 ## Projects
 - lubrizoiluae.com,
