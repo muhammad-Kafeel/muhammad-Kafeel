@@ -1,13 +1,18 @@
 # Hi there, I'm Muhammad Kafeel! 👋
 
 ## About Me
-I am currently pursuing the Meta Front-End Web Development Professional Certification on Coursera, which consists of nine courses covering various aspects of front-end development. I have already completed the following three courses: "Introduction to Front-End Development," "Programming with JavaScript," and "Version Control." Currently, I'm working on "HTML and CSS in Depth."
+As a 7th-semester student pursuing a Bachelor of Science in Computer Science, I am eager to leverage my skills and knowledge to make a meaningful impact in the field. With a focus on web development, I have gained proficiency in programming languages such as HTML, CSS, JavaScript, and React.
+Currently, I am enrolled in the META Front End Development Professional Certification on Coursera, offered by Meta, which comprises 9 courses including React.js. My portfolio boasts successful projects, including websites for Lubrizoiluae oil company, a personal portfolio, a barber website, and a school website.
+Additionally, I am actively working on my Final Year Project 1 (FYP1), developing a web application that showcases my expertise. I aim to utilize my skills to contribute to innovative projects and collaborations, driving growth and excellence in the tech industry.
 
 ## Skills
-- Programming Languages: JavaScript, C, C++, 
-- HTML , CSS , WORDPRESS
-- Front-End Development: HTML, CSS, React
+- Programming Languages:JavaScript, C, C++, 
+- HTML,CSS,WORDPRESS,
+- Front-End Development: HTML, CSS,
 - Version Control: Git and GitHub
+- PHP
+- MERN Stack(MongoDB,Express,React,Nodejs)
+- 
 
 
 ## Interests
