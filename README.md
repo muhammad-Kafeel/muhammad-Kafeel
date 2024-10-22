@@ -14,9 +14,9 @@ Additionally, I am actively working on my Final Year Project 1 (FYP1), developin
 - MERN Stack(MongoDB,Express,React,Nodejs)
 - 
 
-##Projects
-lubrizoiluae.com,
-kafeel.atwebpages.com,
+## Projects
+- lubrizoiluae.com,
+- kafeel.atwebpages.com,
 
 ## Interests
 Although my primary interest lies in softwere developer, I am excited to embark on my coding journey through web development. I believe it will provide a strong foundation for expanding my skills and exploring the intersection of softwere develope and web technologies.
